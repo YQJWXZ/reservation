@@ -1,0 +1,27 @@
+syntax = "proto3";
+
+package reservation;
+
+import "google/protobuf/timestamp.proto";
+
+service ReservationService {
+  rpc CreateReservation(CreateReservationRequest) returns (CreateReservationResponse) {}
+  rpc GetReservation(GetReservationRequest) returns (GetReservationResponse) {}
+  rpc ListReservations(ListReservationsRequest) returns (ListReservationsResponse) {}
+  rpc UpdateReservation(UpdateReservationRequest) returns (UpdateReservationResponse) {}
+  rpc DeleteReservation(DeleteReservationRequest) returns (DeleteReservationResponse) {}
+}
+
+message CreateReservationRequest {
+  string name = 1;
+  string email = 2;
+  string phone = 3;
+  string date = 4;
+  string time = 5;
+  string number_of_guests = 6;
+  string special_requirements = 7;
+}
+
+message CreateReservationResponse {
+  string message = 1;
+}

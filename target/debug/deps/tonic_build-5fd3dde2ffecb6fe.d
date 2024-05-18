@@ -1,0 +1,12 @@
+E:\Workspace\RustDemo\reservation\target\debug\deps\libtonic_build-5fd3dde2ffecb6fe.rmeta: E:\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\tonic-build-0.11.0\src\lib.rs E:\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\tonic-build-0.11.0\src\prost.rs E:\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\tonic-build-0.11.0\src\manual.rs E:\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\tonic-build-0.11.0\src\client.rs E:\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\tonic-build-0.11.0\src\server.rs E:\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\tonic-build-0.11.0\src\code_gen.rs
+
+E:\Workspace\RustDemo\reservation\target\debug\deps\libtonic_build-5fd3dde2ffecb6fe.rlib: E:\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\tonic-build-0.11.0\src\lib.rs E:\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\tonic-build-0.11.0\src\prost.rs E:\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\tonic-build-0.11.0\src\manual.rs E:\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\tonic-build-0.11.0\src\client.rs E:\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\tonic-build-0.11.0\src\server.rs E:\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\tonic-build-0.11.0\src\code_gen.rs
+
+E:\Workspace\RustDemo\reservation\target\debug\deps\tonic_build-5fd3dde2ffecb6fe.d: E:\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\tonic-build-0.11.0\src\lib.rs E:\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\tonic-build-0.11.0\src\prost.rs E:\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\tonic-build-0.11.0\src\manual.rs E:\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\tonic-build-0.11.0\src\client.rs E:\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\tonic-build-0.11.0\src\server.rs E:\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\tonic-build-0.11.0\src\code_gen.rs
+
+E:\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\tonic-build-0.11.0\src\lib.rs:
+E:\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\tonic-build-0.11.0\src\prost.rs:
+E:\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\tonic-build-0.11.0\src\manual.rs:
+E:\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\tonic-build-0.11.0\src\client.rs:
+E:\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\tonic-build-0.11.0\src\server.rs:
+E:\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\tonic-build-0.11.0\src\code_gen.rs:

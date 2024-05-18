@@ -1,0 +1,13 @@
+E:\Workspace\RustDemo\reservation\target\debug\deps\libquote-1f723826110789e8.rmeta: E:\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\quote-1.0.36\src\lib.rs E:\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\quote-1.0.36\src\ext.rs E:\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\quote-1.0.36\src\format.rs E:\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\quote-1.0.36\src\ident_fragment.rs E:\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\quote-1.0.36\src\to_tokens.rs E:\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\quote-1.0.36\src\runtime.rs E:\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\quote-1.0.36\src\spanned.rs
+
+E:\Workspace\RustDemo\reservation\target\debug\deps\libquote-1f723826110789e8.rlib: E:\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\quote-1.0.36\src\lib.rs E:\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\quote-1.0.36\src\ext.rs E:\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\quote-1.0.36\src\format.rs E:\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\quote-1.0.36\src\ident_fragment.rs E:\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\quote-1.0.36\src\to_tokens.rs E:\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\quote-1.0.36\src\runtime.rs E:\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\quote-1.0.36\src\spanned.rs
+
+E:\Workspace\RustDemo\reservation\target\debug\deps\quote-1f723826110789e8.d: E:\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\quote-1.0.36\src\lib.rs E:\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\quote-1.0.36\src\ext.rs E:\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\quote-1.0.36\src\format.rs E:\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\quote-1.0.36\src\ident_fragment.rs E:\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\quote-1.0.36\src\to_tokens.rs E:\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\quote-1.0.36\src\runtime.rs E:\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\quote-1.0.36\src\spanned.rs
+
+E:\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\quote-1.0.36\src\lib.rs:
+E:\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\quote-1.0.36\src\ext.rs:
+E:\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\quote-1.0.36\src\format.rs:
+E:\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\quote-1.0.36\src\ident_fragment.rs:
+E:\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\quote-1.0.36\src\to_tokens.rs:
+E:\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\quote-1.0.36\src\runtime.rs:
+E:\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\quote-1.0.36\src\spanned.rs:
