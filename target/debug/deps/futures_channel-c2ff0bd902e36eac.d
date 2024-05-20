@@ -1,0 +1,12 @@
+E:\Workspace\RustDemo\reservation\target\debug\deps\libfutures_channel-c2ff0bd902e36eac.rmeta: E:\Rust\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.30\src\lib.rs E:\Rust\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.30\src\lock.rs E:\Rust\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.30\src\mpsc\mod.rs E:\Rust\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.30\src\mpsc\queue.rs E:\Rust\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.30\src\mpsc\sink_impl.rs E:\Rust\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.30\src\oneshot.rs
+
+E:\Workspace\RustDemo\reservation\target\debug\deps\libfutures_channel-c2ff0bd902e36eac.rlib: E:\Rust\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.30\src\lib.rs E:\Rust\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.30\src\lock.rs E:\Rust\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.30\src\mpsc\mod.rs E:\Rust\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.30\src\mpsc\queue.rs E:\Rust\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.30\src\mpsc\sink_impl.rs E:\Rust\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.30\src\oneshot.rs
+
+E:\Workspace\RustDemo\reservation\target\debug\deps\futures_channel-c2ff0bd902e36eac.d: E:\Rust\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.30\src\lib.rs E:\Rust\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.30\src\lock.rs E:\Rust\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.30\src\mpsc\mod.rs E:\Rust\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.30\src\mpsc\queue.rs E:\Rust\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.30\src\mpsc\sink_impl.rs E:\Rust\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.30\src\oneshot.rs
+
+E:\Rust\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.30\src\lib.rs:
+E:\Rust\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.30\src\lock.rs:
+E:\Rust\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.30\src\mpsc\mod.rs:
+E:\Rust\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.30\src\mpsc\queue.rs:
+E:\Rust\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.30\src\mpsc\sink_impl.rs:
+E:\Rust\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.30\src\oneshot.rs:

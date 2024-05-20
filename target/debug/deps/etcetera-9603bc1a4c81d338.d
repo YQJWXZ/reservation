@@ -1,0 +1,14 @@
+E:\Workspace\RustDemo\reservation\target\debug\deps\libetcetera-9603bc1a4c81d338.rmeta: E:\Rust\registry\src\index.crates.io-6f17d22bba15001f\etcetera-0.8.0\src\lib.rs E:\Rust\registry\src\index.crates.io-6f17d22bba15001f\etcetera-0.8.0\src\app_strategy.rs E:\Rust\registry\src\index.crates.io-6f17d22bba15001f\etcetera-0.8.0\src\app_strategy\apple.rs E:\Rust\registry\src\index.crates.io-6f17d22bba15001f\etcetera-0.8.0\src\app_strategy\unix.rs E:\Rust\registry\src\index.crates.io-6f17d22bba15001f\etcetera-0.8.0\src\app_strategy\windows.rs E:\Rust\registry\src\index.crates.io-6f17d22bba15001f\etcetera-0.8.0\src\app_strategy\xdg.rs E:\Rust\registry\src\index.crates.io-6f17d22bba15001f\etcetera-0.8.0\src\base_strategy.rs E:\Rust\registry\src\index.crates.io-6f17d22bba15001f\etcetera-0.8.0\src\base_strategy\apple.rs E:\Rust\registry\src\index.crates.io-6f17d22bba15001f\etcetera-0.8.0\src\base_strategy\windows.rs E:\Rust\registry\src\index.crates.io-6f17d22bba15001f\etcetera-0.8.0\src\base_strategy\xdg.rs
+
+E:\Workspace\RustDemo\reservation\target\debug\deps\etcetera-9603bc1a4c81d338.d: E:\Rust\registry\src\index.crates.io-6f17d22bba15001f\etcetera-0.8.0\src\lib.rs E:\Rust\registry\src\index.crates.io-6f17d22bba15001f\etcetera-0.8.0\src\app_strategy.rs E:\Rust\registry\src\index.crates.io-6f17d22bba15001f\etcetera-0.8.0\src\app_strategy\apple.rs E:\Rust\registry\src\index.crates.io-6f17d22bba15001f\etcetera-0.8.0\src\app_strategy\unix.rs E:\Rust\registry\src\index.crates.io-6f17d22bba15001f\etcetera-0.8.0\src\app_strategy\windows.rs E:\Rust\registry\src\index.crates.io-6f17d22bba15001f\etcetera-0.8.0\src\app_strategy\xdg.rs E:\Rust\registry\src\index.crates.io-6f17d22bba15001f\etcetera-0.8.0\src\base_strategy.rs E:\Rust\registry\src\index.crates.io-6f17d22bba15001f\etcetera-0.8.0\src\base_strategy\apple.rs E:\Rust\registry\src\index.crates.io-6f17d22bba15001f\etcetera-0.8.0\src\base_strategy\windows.rs E:\Rust\registry\src\index.crates.io-6f17d22bba15001f\etcetera-0.8.0\src\base_strategy\xdg.rs
+
+E:\Rust\registry\src\index.crates.io-6f17d22bba15001f\etcetera-0.8.0\src\lib.rs:
+E:\Rust\registry\src\index.crates.io-6f17d22bba15001f\etcetera-0.8.0\src\app_strategy.rs:
+E:\Rust\registry\src\index.crates.io-6f17d22bba15001f\etcetera-0.8.0\src\app_strategy\apple.rs:
+E:\Rust\registry\src\index.crates.io-6f17d22bba15001f\etcetera-0.8.0\src\app_strategy\unix.rs:
+E:\Rust\registry\src\index.crates.io-6f17d22bba15001f\etcetera-0.8.0\src\app_strategy\windows.rs:
+E:\Rust\registry\src\index.crates.io-6f17d22bba15001f\etcetera-0.8.0\src\app_strategy\xdg.rs:
+E:\Rust\registry\src\index.crates.io-6f17d22bba15001f\etcetera-0.8.0\src\base_strategy.rs:
+E:\Rust\registry\src\index.crates.io-6f17d22bba15001f\etcetera-0.8.0\src\base_strategy\apple.rs:
+E:\Rust\registry\src\index.crates.io-6f17d22bba15001f\etcetera-0.8.0\src\base_strategy\windows.rs:
+E:\Rust\registry\src\index.crates.io-6f17d22bba15001f\etcetera-0.8.0\src\base_strategy\xdg.rs:
