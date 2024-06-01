@@ -1,1 +1,0 @@
-{"rustc":4385736999455743866,"features":"","declared_features":"","target":0,"profile":0,"path":0,"deps":[[1787780298224395937,"build_script_build",false,3424164161815905937]],"local":[{"RerunIfChanged":{"output":"debug\\build\\abi-0038056afa7f43b1\\output","paths":["protos/reservation.proto","protos","protos/*"]}}],"rustflags":[],"metadata":0,"config":0,"compile_kind":0}
